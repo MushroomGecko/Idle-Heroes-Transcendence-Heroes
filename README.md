@@ -2,6 +2,11 @@
 
 A comprehensive data repository providing structured insights into **Idle Heroes Transcendence Heroes** stats, abilities, and strategic information. This project transforms complex hero data into accessible, machine-readable formats for analysis and strategic planning.
 
+You can access a Google Sheets version of the spreadsheet here:
+
+https://docs.google.com/spreadsheets/d/1qWHPF7YeztGibwD6TJBERP_UL3gf1oA5QO9PGe5HWPY/edit?usp=drivesdk
+
+
 ## 🎯 What This Project Offers
 
 ### **Complete Hero Analytics**
