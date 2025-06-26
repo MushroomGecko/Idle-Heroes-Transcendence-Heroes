@@ -2247,7 +2247,7 @@
       }
     },
     "core_of_origin": "At the beginning of each round, there is a 55% chance to inflict Veil of Mist and Taunt on 1 random enemy without Veil of Mist, lasting for 1 round respectively. Each time an enemy's Lethal Incense is removed, self restores (200% of Attack) HP for all allies and increases their Energy by 8. When an ally with Stygian Mark releases basic attacks or active skills, self reduces the Effect of Being Healed for targets with Lethal Incense by 6% for 2 rounds and there is a 25% chance to reduce their Energy by 10.",
-    "transition_skill": "At the beginning of each round, if self has 6 or more layers of Transition Power, consumes 6 of them to attack targets with Lethal Incense, dealing (15% of their lost HP) damage. Afterward, inflicts Lethal Incense on the enemy with the lowest HP for 2 rounds.",
+    "transition_skill": "At the beginning of each round, if self has 6 or more layers of Transition Power, consumes 6 of them to attack targets with Lethal Incense, dealing (15% of their lost HP) damage, caps at 1500% of the attacker's Attack. Afterward, inflicts Lethal Incense on the enemy with the lowest HP for 2 rounds.",
     "spiritual_pivots": {
       "phantom_dawn": [
         "When basic attack hits a target, obtains 3 layers of Transition Power.",
@@ -2275,7 +2275,7 @@
         "Additionally increases self Speed by 100 for 2 rounds."
       ],
       "moon_abyss": [
-        "Changes the Transition Skill to: At the beginning of each round, if self has 6 or more layers of Transition Power, attacks targets with Lethal Incense, dealing (15% of their lost HP) damage. Afterward, inflicts Lethal Incense on the enemy with the lowest HP For 2 rounds. If self has 12 or more layers of Transition Power, consumes 12 layers of them to attack targets with Lethal Incense, dealing (25% of their lost HP) damage. Afterward, inflicts Lethal Incense on the enemy with the lowest HP For 2 rounds. Meanwhile: reduces the enemy's Attack by 20%, Armor by 20%, and Speed by 100 for 2 rounds; besides, increases all allies' All Damage Dealt by 10% for 2 rounds (ally with Stygian Mark gains 100% more bonus)."
+        "Changes the Transition Skill to: At the beginning of each round, if self has 6 or more layers of Transition Power, attacks targets with Lethal Incense, dealing (15% of their lost HP) damage, caps at 1500% of the attacker's Attack. Afterward, inflicts Lethal Incense on the enemy with the lowest HP For 2 rounds. If self has 12 or more layers of Transition Power, consumes 12 layers of them to attack targets with Lethal Incense, dealing (25% of their lost HP) damage, caps at 1500% of the attacker's Attack. Afterward, inflicts Lethal Incense on the enemy with the lowest HP For 2 rounds. Meanwhile: reduces the enemy's Attack by 2%, Armor by 20%, Damage Reduction by 20%, Control Immunity by 20%, and Speed by 20 for 100 rounds; besides, increases all allies' All Damage Dealt by 2% for 10 rounds (ally with Stygian Mark gains 2% more bonus)."
       ]
     }
   }
